@@ -1,0 +1,1 @@
+This directory is for the first project in the ALX software engineering program, which covers Git and version control. In this project, we will learn how to use Git to manage and collaborate on code repositories.
